@@ -1,0 +1,19 @@
+{
+  "name": "tindog-start-master",
+  "version": "1.0.0",
+  "description": "TinDog Starting Files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drlenny/tindog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drlenny/tindog/issues"
+  },
+  "homepage": "https://github.com/drlenny/tindog#readme"
+}
